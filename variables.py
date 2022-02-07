@@ -13,5 +13,4 @@ x=monedas_robada
 
 y=monedas_magicas
 
-
 resultado=monedas_encontradas+monedas_robadas*365-monedas_magicas*52
